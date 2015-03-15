@@ -163,7 +163,7 @@ if __name__ == "__main__":
 				print "Moving In"
 				
 				total += 1
-				print "Total images added to queue till now: ",total
+				#print "Total images added to queue till now: ",total
 				imageQueue.put(moving_part) #adding images to queue
 
 				movingIn = True
