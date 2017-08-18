@@ -1,5 +1,5 @@
 # Motion Detection
-[![N|Solid](https://secure.gravatar.com/avatar/7273c58dc017eec83667b50742ff6368?s=80)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://secure.gravatar.com/avatar/7273c58dc017eec83667b50742ff6368?s=80)](https://www.linkedin.com/in/amitasviper/)
 
 This is a python program which detects motion in a frame using a still camera. It uses python-cv2 to process images. If a motion is detected, then the moving object is extracted from the frame and sent to a server.
 
